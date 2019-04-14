@@ -1,0 +1,9 @@
+D:\学习\Csharp\MyUnityClassLibrary\KeyboardManager\bin\Debug\KeyboardManager.dll
+D:\学习\Csharp\MyUnityClassLibrary\KeyboardManager\bin\Debug\KeyboardManager.pdb
+D:\学习\Csharp\MyUnityClassLibrary\KeyboardManager\bin\Debug\UnityEngine.dll
+D:\学习\Csharp\MyUnityClassLibrary\KeyboardManager\bin\Debug\UnityEngine.xml
+D:\学习\Csharp\MyUnityClassLibrary\KeyboardManager\obj\Debug\KeyboardManager.csprojAssemblyReference.cache
+D:\学习\Csharp\MyUnityClassLibrary\KeyboardManager\obj\Debug\KeyboardManager.csproj.CoreCompileInputs.cache
+D:\学习\Csharp\MyUnityClassLibrary\KeyboardManager\obj\Debug\KeyboardManager.csproj.CopyComplete
+D:\学习\Csharp\MyUnityClassLibrary\KeyboardManager\obj\Debug\KeyboardManager.dll
+D:\学习\Csharp\MyUnityClassLibrary\KeyboardManager\obj\Debug\KeyboardManager.pdb
